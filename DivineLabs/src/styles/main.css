@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #111;
+  color: #ececec;
+  line-height: 1.6;
+  padding: 0 1rem;
+}
+section {
+  padding: 4rem 0;
+  max-width: 1000px;
+  margin: auto;
+}
+h1, h2 {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
